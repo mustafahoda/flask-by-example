@@ -6,8 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask = "==0.10.1"
 gunicorn = "==19.4.5"
+itsdangerous = "==1.1.0"
+Flask = "==0.10.1"
+Jinja2 = "==2.10.1"
+MarkupSafe = "==1.1.1"
+Werkzeug = "==0.15.5"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7.3"
