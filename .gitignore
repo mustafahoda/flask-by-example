@@ -56,3 +56,6 @@ docs/_build/
 
 #NLTK Files
 nltk_data/
+
+#Redis File
+dump.rdb
