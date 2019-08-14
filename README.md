@@ -1,6 +1,6 @@
 # flask-by-example
 A flask app that implements a RedisQueue, AngularJS Frontend and Heroku Cloud. Good practice that allowed me to implement a 
-Flaks app in local, staging and prod environments on the Heroku Cloud.
+Flaks app in local, staging and prod environments.
 
 # Inspiration
 Wanted to get experience with Redis Queues on a Python Environment. I found this amazing 8 part [tutorial](https://realpython.com/flask-by-example-part-1-project-setup/)
@@ -15,6 +15,7 @@ Here is the [GitHub Link](https://github.com/realpython/flask-by-example/release
   - Sending Data between forms
   - Redirects
 - Light refresher on AngularJS
+- Setting up Environment Variables that will be accessed by the appliation respective to which environment it is in.
 
 # Setup
 ```bash
